@@ -1,3 +1,3 @@
 # Data science projects
 
-Примеры анализа данных в python. Data cleaning, EDA, визуализация, feature engineering, ML models: classification, NLP, рекомендательные системы, model deployment.
+Примеры анализа данных в python. Data cleaning, EDA, визуализация, feature engineering. ML models: classification, NLP, рекомендательные системы, model deployment.
